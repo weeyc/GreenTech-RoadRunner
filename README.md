@@ -2,7 +2,7 @@ RRMS | Road Runner Management System
 
 Software Requirement Specification Mini Project
 
-Html | Javascript | CSS | Php
+Html | Javascript | CSS | PHP
 
 Road Runner Management System is a system to support one stop center for runner services provider to run their business. The system has four kind of external entity which is customer, service provider, runner and payment gateway.
 
