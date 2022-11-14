@@ -1,4 +1,4 @@
-#RRMS | Road Runner Management System
+RRMS | Road Runner Management System
 
 Software Requirement Specification Mini Project
 
