@@ -1,8 +1,8 @@
 RRMS | Road Runner Management System
 
-Software Requirement Specification Mini Project
+➤ Assignment Project of Software Requirement Specification
 
-Html | Javascript | CSS | PHP
+➤ Html | Javascript | CSS | PHP
 
 ![rrms](https://user-images.githubusercontent.com/76787324/201714431-6e0f5807-7c15-4bd1-be37-cfd402e848c7.png)
 
